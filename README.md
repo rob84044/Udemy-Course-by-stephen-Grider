@@ -1,0 +1,1 @@
+This will serve as my main git repo for all of the projects that I will complete with Stephens course from udemy. As I add a new project, I will create a separate branch for each project. this way I can have one repo for all of my projects per each Udemy course and I will also be able to use build commands in Netlify/Zeit to host a page with ease.
